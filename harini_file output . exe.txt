@@ -1,0 +1,28 @@
+--- Bank Customer Queue ---
+1. Enqueue customer
+2. Dequeue customer
+3. Display queue
+4. Exit
+Choose an option: 1
+Enter customer name: harini
+Customer 'harini' added to the queue.
+
+--- Bank Customer Queue ---
+1. Enqueue customer
+2. Dequeue customer
+3. Display queue
+4. Exit
+Choose an option: 3
+Customers in queue:
+- harini
+
+--- Bank Customer Queue ---
+1. Enqueue customer
+2. Dequeue customer
+3. Display queue
+4. Exit
+Choose an option: 4
+Exiting...
+
+
+=== Code Execution Successful ===
